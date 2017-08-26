@@ -47,7 +47,9 @@ For each set of things that you put into the package provide a list (items’ in
 CONSTRAINTS:
 
 Max weight that a package can take is ≤ 100
+
 There might be up to 15 items you need to choose from
+
 Max weight and cost of an item is ≤ 100
 
 
